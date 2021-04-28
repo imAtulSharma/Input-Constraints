@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Input Constraints</string>
+    <string name="uppercase_alphabets_heading">Uppercase alphabets (A-Z)</string>
+    <string name="lowercase_alphabets_heading">Lowercase alphabets (a-z)</string>
+    <string name="digits_heading">Digits (0-9)</string>
+    <string name="mathematical_operations_heading">Mathematical operations (+, -, /, *, %)</string>
+    <string name="other_symbols_heading">Other symbols (#, $, etc.)</string>
+    <string name="input_constraints_text_view_heading">Input Constraints</string>
+    <string name="take_input_button_title">take input</string>
 </resources>
