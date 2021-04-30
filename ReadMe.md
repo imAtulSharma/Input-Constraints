@@ -1,6 +1,7 @@
 # Input Constraints
 
-I have made an application to take a required string.
+I have made an application to take a required string.<br>
+Download [APK](https://github.com/imAtulSharma/Input-Constraints/releases/download/v1.0/app-debug.apk) for the application.
 
 ## What new I have learned in this?
 
